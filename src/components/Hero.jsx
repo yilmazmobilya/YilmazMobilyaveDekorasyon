@@ -2,10 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 function Hero() {
   const images = [
-    "/images/ym-hero-1.jpg",
-    "/images/ym-hero-2.jpg", 
-    "/images/ym-hero-3.jpg", 
-    "/images/ym-hero-4.jpg"  
+    "/images/Mutfak/mutfak-1.jpeg",
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);

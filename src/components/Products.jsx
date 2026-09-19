@@ -88,19 +88,44 @@ function Products() {
       title: "Mutfak Dolapları",
       desc: "Fonksiyonellik ve zarafeti mutfağınıza taşıyan, size özel ölçü ve renk seçenekleriyle tasarlanan modern mutfak dolapları.",
       images: [
-        "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=1200&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=1200&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=1200&auto=format&fit=crop"
-      ]
+        "/images/Mutfak/mutfak-1.jpeg",
+        "/images/Mutfak/mutfak-2.jpeg",
+        "/images/Mutfak/mutfak-3.jpeg",
+        "/images/Mutfak/mutfak-4.jpeg",
+        "/images/Mutfak/mutfak-5.jpeg",
+        "/images/Mutfak/mutfak-6.jpeg",
+        "/images/Mutfak/mutfak-7.jpeg",
+        "/images/Mutfak/mutfak-8.jpeg",
+        "/images/Mutfak/mutfak-9.jpeg",
+        "/images/Mutfak/mutfak-10.jpeg",
+        "/images/Mutfak/mutfak-11.jpeg",
+        "/images/Mutfak/mutfak-12.jpeg",
+        "/images/Mutfak/mutfak-13.jpeg",
+        "/images/Mutfak/mutfak-14.jpeg"
+        ]
     },
     {
       id: "vestiyer",
       title: "Vestiyer & Portmanto",
       desc: "Evinize ilk adımda düzeni ve şıklığı hissettiren, dar alanları bile en verimli şekilde kullanan giriş çözümleri.",
       images: [
-        "https://images.unsplash.com/photo-1589255280387-9bc7c4da0479?q=80&w=1200&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1616486029423-aaa4789e8c9a?q=80&w=1200&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1532323544230-7191fd51bc1b?q=80&w=1200&auto=format&fit=crop"
+        "/images/Vestiyer/vestiyer-1.jpeg",
+        "/images/Vestiyer/vestiyer-2.jpeg",
+        "/images/Vestiyer/vestiyer-3.jpeg",
+        "/images/Vestiyer/vestiyer-4.jpeg",
+        "/images/Vestiyer/vestiyer-5.jpeg",
+        "/images/Vestiyer/vestiyer-6.jpeg",
+        "/images/Vestiyer/vestiyer-7.jpeg",
+        "/images/Vestiyer/vestiyer-8.jpeg",
+        "/images/Vestiyer/vestiyer-9.jpeg",
+        "/images/Vestiyer/vestiyer-10.jpeg",
+        "/images/Vestiyer/vestiyer-11.jpeg",
+        "/images/Vestiyer/vestiyer-12.jpeg",
+        "/images/Vestiyer/vestiyer-13.jpeg",
+        "/images/Vestiyer/vestiyer-14.jpeg",
+        "/images/Vestiyer/vestiyer-15.jpeg",
+        "/images/Vestiyer/vestiyer-16.jpeg",
+        "/images/Vestiyer/vestiyer-17.jpeg",
       ]
     },
     {
@@ -108,9 +133,20 @@ function Products() {
       title: "Dresuar",
       desc: "Koridor ve salonlarınıza estetik bir dokunuş katan, aynalı ve çekmeceli zarif dresuar modelleri.",
       images: [
-        "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?q=80&w=1200&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1631679706909-1844bbd07221?q=80&w=1200&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?q=80&w=1200&auto=format&fit=crop"
+        "/images/Dresuar/dresuar-9.jpeg",
+        "/images/Dresuar/dresuar-2.jpeg",
+        "/images/Dresuar/dresuar-3.jpeg",
+        "/images/Dresuar/dresuar-4.jpeg",
+        "/images/Dresuar/dresuar-5.jpeg",
+        "/images/Dresuar/dresuar-6.jpeg",
+        "/images/Dresuar/dresuar-7.jpeg",
+        "/images/Dresuar/dresuar-8.jpeg",
+        "/images/Dresuar/dresuar-1.jpeg",
+        "/images/Dresuar/dresuar-10.jpeg",
+        "/images/Dresuar/dresuar-11.jpeg",
+        "/images/Dresuar/dresuar-12.jpeg",
+        "/images/Dresuar/dresuar-13.jpeg",
+        "/images/Dresuar/dresuar-14.jpeg",
       ]
     },
     {
@@ -118,9 +154,23 @@ function Products() {
       title: "Kahve Köşesi",
       desc: "Evinizin en keyifli anlarına eşlik edecek, fincanlarınız ve kahve makineniz için özel tasarlanmış köşeler.",
       images: [
-         "https://images.unsplash.com/photo-1525081905268-fc0b46e9d786?q=80&w=1200&auto=format&fit=crop",
-         "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=1200&auto=format&fit=crop",
-         "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1200&auto=format&fit=crop"
+         "/images/Kahve/kahve-17.jpeg",
+         "/images/Kahve/kahve-2.jpeg",
+         "/images/Kahve/kahve-3.jpeg",
+         "/images/Kahve/kahve-4.jpeg",
+         "/images/Kahve/kahve-5.jpeg",
+         "/images/Kahve/kahve-6.jpeg",
+         "/images/Kahve/kahve-7.jpeg",
+         "/images/Kahve/kahve-8.jpeg",
+         "/images/Kahve/kahve-9.jpeg",
+         "/images/Kahve/kahve-10.jpeg",
+         "/images/Kahve/kahve-11.jpeg",
+         "/images/Kahve/kahve-12.jpeg",
+         "/images/Kahve/kahve-13.jpeg",
+         "/images/Kahve/kahve-14.jpeg",
+         "/images/Kahve/kahve-15.jpeg",
+         "/images/Kahve/kahve-16.jpeg",
+         "/images/Kahve/kahve-1.jpeg",
       ]
     },
     {
@@ -128,9 +178,19 @@ function Products() {
       title: "Yatak Odası",
       desc: "Günün yorgunluğunu atacağınız huzur dolu, gardırop ve şifonyer detaylarıyla zenginleştirilmiş takımlar.",
       images: [
-         "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=1200&auto=format&fit=crop",
-         "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?q=80&w=1200&auto=format&fit=crop",
-         "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop"
+         "/images/Yatak/yatak-5.jpeg",
+         "/images/Yatak/yatak-2.jpeg",
+         "/images/Yatak/yatak-3.jpeg",
+         "/images/Yatak/yatak-4.jpeg",
+         "/images/Yatak/yatak-1.jpeg",
+         "/images/Yatak/yatak-6.jpeg",
+         "/images/Yatak/yatak-7.jpeg",
+         "/images/Yatak/yatak-8.jpeg",
+         "/images/Yatak/yatak-9.jpeg",
+         "/images/Yatak/yatak-10.jpeg",
+         "/images/Yatak/yatak-11.jpeg",
+         "/images/Yatak/yatak-12.jpeg",
+         "/images/Yatak/yatak-13.jpeg",
       ]
     },
     // YENİ EKLENEN TV ÜNİTESİ BÖLÜMÜ
@@ -139,10 +199,27 @@ function Products() {
       title: "TV Ünitesi",
       desc: "Salonunuzun odak noktası olacak, estetik ve işlevselliği bir araya getiren modern TV ünitesi tasarımları.",
       images: [
-        "https://images.unsplash.com/photo-1593696140826-c58b021acf8b?q=80&w=1200&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1600607686527-6fb886090705?q=80&w=1200&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?q=80&w=1200&auto=format&fit=crop"
-      ]
+        "/images/TV/tv-16.jpeg",
+        "/images/TV/tv-2.jpeg",
+        "/images/TV/tv-3.jpeg",
+        "/images/TV/tv-4.jpeg",
+        "/images/TV/tv-5.jpeg",
+        "/images/TV/tv-6.jpeg",
+        "/images/TV/tv-7.jpeg",
+        "/images/TV/tv-8.jpeg",
+        "/images/TV/tv-9.jpeg",
+        "/images/TV/tv-10.jpeg",
+        "/images/TV/tv-11.jpeg",
+        "/images/TV/tv-12.jpeg",
+        "/images/TV/tv-13.jpeg",
+        "/images/TV/tv-14.jpeg",
+        "/images/TV/tv-15.jpeg",
+        "/images/TV/tv-1.jpeg",
+        "/images/TV/tv-17.jpeg",
+        "/images/TV/tv-18.jpeg",
+        "/images/TV/tv-19.jpeg",
+        "/images/TV/tv-20.jpeg",
+        ]
     }
   ];
 

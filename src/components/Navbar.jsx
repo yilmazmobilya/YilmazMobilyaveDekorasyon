@@ -12,7 +12,7 @@ function Navbar() {
         {/* Logo */}
         <a href="#baslangic" className="flex items-center">
           <img 
-            src="/images/yilmaz-mobilya-logo.png" 
+            src="/images/Logo/yilmaz-mobilya-logo.png" 
             alt="Yılmaz Mobilya Logo" 
             className="h-12 w-auto object-contain" 
           />
