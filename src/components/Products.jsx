@@ -88,6 +88,7 @@ function Products() {
       title: "Mutfak Dolapları",
       desc: "Fonksiyonellik ve zarafeti mutfağınıza taşıyan, size özel ölçü ve renk seçenekleriyle tasarlanan modern mutfak dolapları.",
       images: [
+        "/images/Mutfak/mutfak-katalog.jpg",
         "/images/Mutfak/mutfak-1.jpeg",
         "/images/Mutfak/mutfak-2.jpeg",
         "/images/Mutfak/mutfak-3.jpeg",
@@ -109,6 +110,7 @@ function Products() {
       title: "Vestiyer & Portmanto",
       desc: "Evinize ilk adımda düzeni ve şıklığı hissettiren, dar alanları bile en verimli şekilde kullanan giriş çözümleri.",
       images: [
+        "/images/Vestiyer/vestiyer-katalog.jpg",
         "/images/Vestiyer/vestiyer-1.jpeg",
         "/images/Vestiyer/vestiyer-2.jpeg",
         "/images/Vestiyer/vestiyer-3.jpeg",
@@ -133,6 +135,7 @@ function Products() {
       title: "Dresuar",
       desc: "Koridor ve salonlarınıza estetik bir dokunuş katan, aynalı ve çekmeceli zarif dresuar modelleri.",
       images: [
+        "/images/Dresuar/dresuar-katalog.jpg",
         "/images/Dresuar/dresuar-9.jpeg",
         "/images/Dresuar/dresuar-2.jpeg",
         "/images/Dresuar/dresuar-3.jpeg",
@@ -154,6 +157,7 @@ function Products() {
       title: "Kahve Köşesi",
       desc: "Evinizin en keyifli anlarına eşlik edecek, fincanlarınız ve kahve makineniz için özel tasarlanmış köşeler.",
       images: [
+         "/images/Kahve/kahve-katalog.jpg",
          "/images/Kahve/kahve-17.jpeg",
          "/images/Kahve/kahve-2.jpeg",
          "/images/Kahve/kahve-3.jpeg",
@@ -178,6 +182,8 @@ function Products() {
       title: "Yatak Odası",
       desc: "Günün yorgunluğunu atacağınız huzur dolu, gardırop ve şifonyer detaylarıyla zenginleştirilmiş takımlar.",
       images: [
+         "/images/Yatak/yatak-katalog-1.jpg",
+         "/images/Yatak/yatak-katalog-2.jpg",
          "/images/Yatak/yatak-5.jpeg",
          "/images/Yatak/yatak-2.jpeg",
          "/images/Yatak/yatak-3.jpeg",
@@ -199,6 +205,7 @@ function Products() {
       title: "TV Ünitesi",
       desc: "Salonunuzun odak noktası olacak, estetik ve işlevselliği bir araya getiren modern TV ünitesi tasarımları.",
       images: [
+        "/images/TV/tv-katalog.jpg",
         "/images/TV/tv-16.jpeg",
         "/images/TV/tv-2.jpeg",
         "/images/TV/tv-3.jpeg",
